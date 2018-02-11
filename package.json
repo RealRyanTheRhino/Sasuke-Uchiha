@@ -1,0 +1,23 @@
+{
+  "name": "Sasuke Uchiha",
+  "description": "This cute little bot is pretty mush useless!",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "curl": "^0.1.4",
+    "discord.js": "^11.1.0",
+    "eslint": "^4.17.0",
+    "ffmpeg": "0.0.4",
+    "kitsu": "^4.4.0",
+    "math-expression-evaluator": "^1.2.17",
+    "mysql": "^2.15.0",
+    "opusscript": "0.0.6",
+    "pokemon-gif": "^1.0.9",
+    "request": "2.81.0",
+    "superagent": "^3.8.2",
+    "webdict": "^0.2.1"
+  }
+}
